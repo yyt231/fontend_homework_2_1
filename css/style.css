@@ -1,0 +1,53 @@
+* {
+				margin: 0 auto;
+			}
+			
+			#container {
+				vertical-align: middle;
+				position: absolute;
+				left: 50%;
+				top: 50%;
+				margin-left: -150px;
+				margin-top: -150px;
+			}
+			
+			#square {
+				width: 100px;
+				height: 100px;
+				box-shadow: 0 0 10px 2px darkgray;
+			}
+			
+			.top {
+				background-color: #306C93;
+				position: relative;
+				margin-left: 100px;
+			}
+			
+			.left {
+				background-color: #542872;
+				float: left;
+			}
+			
+			.center {
+				float: left;
+				margin: auto;
+			}
+			.center img{
+				position: absolute;
+				left: 50%;
+				top: 50%;
+				margin-left: -12px;
+				margin-top: -12px;
+			}
+			
+			.right {
+				background-color: #319D35;
+				float: left;
+			}
+			
+			.bottom {
+				background-color: #881E2B;
+				position: relative;
+				margin-top: 100px;
+				margin-left: 100px;
+			}
